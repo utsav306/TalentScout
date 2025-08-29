@@ -8,7 +8,7 @@ The Hiring Assistant Chatbot is an intelligent conversational agent designed to 
 
 1. **Clone the Repository:**
    ```bash
-   git clone <https://github.com/utsav306/TalentScout.git>
+   git clone https://github.com/utsav306/TalentScout.git
    cd PGAGI
    ```
 2. **Set Up Python Environment:**
@@ -27,7 +27,7 @@ The Hiring Assistant Chatbot is an intelligent conversational agent designed to 
    - Copy `.env.example` to `.env` and fill in the required values (API keys, email credentials, etc.).
 5. **Run the Application:**
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 ## Usage Guide
